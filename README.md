@@ -7,6 +7,11 @@
 
 <br/>
 
+<!-- Daily Programming Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+
+<br/>
+
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/sarojsrj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/thesarojs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -60,6 +65,11 @@
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srjofficial&theme=radical&hide_border=true&layout=compact" width="420" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=srjofficial&theme=radical&hide_border=true" width="850" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
