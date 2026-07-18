@@ -43,11 +43,10 @@
 
 <br><br>
 
-<!-- Spotify Widget Placeholder -->
-<a href="https://github.com/novatorem/novatorem">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=novatorem&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="300" alt="Spotify Currently Playing (Placeholder)" />
-</a><br/>
-<sub><i>Click the widget to learn how to connect your own Spotify account!</i></sub>
+<h3>Currently Listening To</h3>
+<a href="https://spotify.com">
+  <img src="https://spotify-github-profile-ruby.vercel.app/api/view?cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="300" alt="Spotify Currently Playing" />
+</a>
 
 <br><br><br>
 
