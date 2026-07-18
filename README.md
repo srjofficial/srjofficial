@@ -14,8 +14,31 @@
 
 <br><br>
 
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=srjofficial&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="srjofficial trophies" />
+</a>
+
+<br><br>
+
 <h3>Contributions</h3>
 <img src="./contrib-heatmap.svg" width="860" />
+
+<!-- Snake Animation (Requires GitHub Action to generate) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srjofficial/srjofficial/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srjofficial/srjofficial/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srjofficial/srjofficial/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br><br>
+
+<h3>Tech Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,docker,vscode&theme=dark" />
+  </a>
+</p>
 
 <br><br>
 
