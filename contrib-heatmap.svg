@@ -381,8 +381,9 @@
   <rect x="683" y="85" width="10" height="10" rx="2" fill="#161b22" class="cell" style="animation-delay: 1.095s;" />
   <rect x="683" y="98" width="10" height="10" rx="2" fill="#0e4429" class="cell" style="animation-delay: 1.110s;" />
   <rect x="696" y="20" width="10" height="10" rx="2" fill="#0e4429" class="cell" style="animation-delay: 1.040s;" />
-  <rect x="696" y="33" width="10" height="10" rx="2" fill="#161b22" class="cell" style="animation-delay: 1.055s;" />
-  <text x="20" y="135" class="text">43 contributions in the last year</text>
+  <rect x="696" y="33" width="10" height="10" rx="2" fill="#0e4429" class="cell" style="animation-delay: 1.055s;" />
+  <rect x="696" y="46" width="10" height="10" rx="2" fill="#161b22" class="cell" style="animation-delay: 1.070s;" />
+  <text x="20" y="135" class="text">44 contributions in the last year</text>
   <text x="579" y="135" class="text">Less</text>
   <rect x="614" y="126" width="10" height="10" rx="2" fill="#161b22" />
   <rect x="627" y="126" width="10" height="10" rx="2" fill="#0e4429" />
