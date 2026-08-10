@@ -1,9 +1,9 @@
 {
   "username": "srjofficial",
   "stats": {
-    "total_last_year": 63,
-    "current_streak": 22,
-    "longest_streak": 22,
+    "total_last_year": 64,
+    "current_streak": 23,
+    "longest_streak": 23,
     "best_day": {
       "date": "2026-07-11",
       "count": 8
@@ -21,7 +21,7 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 22,
-      "2026-08": 8
+      "2026-08": 9
     }
   },
   "days": [
@@ -1847,6 +1847,11 @@
     },
     {
       "date": "2026-08-09",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-10",
       "count": 0,
       "level": 0
     }
