@@ -1,9 +1,9 @@
 {
   "username": "srjofficial",
   "stats": {
-    "total_last_year": 84,
-    "current_streak": 42,
-    "longest_streak": 42,
+    "total_last_year": 85,
+    "current_streak": 43,
+    "longest_streak": 43,
     "best_day": {
       "date": "2026-07-11",
       "count": 8
@@ -21,45 +21,10 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 22,
-      "2026-08": 29
+      "2026-08": 30
     }
   },
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0,
@@ -1877,6 +1842,11 @@
     },
     {
       "date": "2026-08-29",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-30",
       "count": 0,
       "level": 0
     }
